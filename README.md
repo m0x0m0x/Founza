@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://media.tenor.com/WvmumPs2OLEAAAAd/woman-robot.gif" width="200">
+<img src="https://media.tenor.com/WvmumPs2OLEAAAAd/woman-robot.gif" width="200">
+</p>
+
+----
 <h1 align="center"><code>Founza</code></h1>
 <h2 align="center"><i> Testing Foundry and relateds stuff </i></h2>
 
