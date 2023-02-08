@@ -4,6 +4,7 @@
 ----
 1. [Important Links](#important-links)
 2. [Duh ?](#duh-)
+3. [Branch Description](#branch-description)
 
 ----
 
@@ -17,4 +18,14 @@
 
 # Duh ? 
 
-1. Testing 
+1. Testing the links mentioned above 
+   1. Mostly for various packages testing will be mentioned here 
+2. Each thing that will be tested will be in its own branch 
+
+# Branch Description 
+
+1. Main branch has been renamed to `mx0`
+
+N | ? 
+|:--:|:--:|
+
