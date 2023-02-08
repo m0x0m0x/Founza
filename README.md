@@ -31,6 +31,7 @@
 # Branch Description 
 
 1. Main branch has been renamed to `mx0`
+2. Putup branch protection here
 
 N | ? 
 |:--:|:--:|
