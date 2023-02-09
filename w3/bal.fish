@@ -28,5 +28,10 @@ echo (set_color dc7633) "BNBTest Balance  : " $walbsc
 echo ""
 echo (set_color FF0000) "************************************************"
 echo ""
+echo (set_color FFFF00) "FX1  : 0x6937478e83357428e0C22F60605790f4157cC4a6"
+echo (set_color FFFF00) "FX1K : ce043f3e348e936418a49a35af5e70443a96ffb33551c9fb0822754d7614bb74"
+echo ""
+echo (set_color FF0000) "************************************************"
+
 
 
