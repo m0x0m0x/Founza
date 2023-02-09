@@ -1,16 +1,12 @@
-<p align="center">
-<img src="https://media.tenor.com/WvmumPs2OLEAAAAd/woman-robot.gif" width="200">
-<img src="https://media.tenor.com/WvmumPs2OLEAAAAd/woman-robot.gif" width="200">
-</p>
 
 ----
-<h1 align="center"><code>Founza</code></h1>
-<h2 align="center"><i> Testing Foundry and relateds stuff </i></h2>
+<h1 align="center"><code> 🐌 Branch F1</code></h1>
+<h2 align="center"><i> Foundy Related Work here </i></h2>
 
 ----
 1. [Important Links](#important-links)
 2. [Duh ?](#duh-)
-3. [Branch Description](#branch-description)
+3. [Stuff](#stuff)
 
 ----
 
@@ -24,15 +20,8 @@
 
 # Duh ? 
 
-1. Testing the links mentioned above 
-   1. Mostly for various packages testing will be mentioned here 
-2. Each thing that will be tested will be in its own branch 
+1. This branch will have all foundry related testting work 
 
-# Branch Description 
 
-1. Main branch has been renamed to `mx0`
-2. Putup branch protection here
-
-N | ? 
-|:--:|:--:|
+# Stuff 
 
