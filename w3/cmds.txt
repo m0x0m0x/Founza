@@ -1,0 +1,23 @@
+List of commmands used for the wallets and shit 
+
+1. Send 10 tx to sepolia with a message 
+
+ for i in (seq 1 10)
+      cast send \
+          --chain sepolia \
+          --rpc-url $IFS \
+          --private-key $FX1K \
+          $FX2 $msg
+  end
+
+  - Thsi is leverating the fish loop commands 
+
+  Setting up the coded message 
+
+set msg (
+  cast --from-utf8 \
+  "Tongue Punch the Fart Box"
+  )
+
+  ie., "Asking wife for the sweet ass juice" 
+  
