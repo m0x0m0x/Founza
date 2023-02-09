@@ -1,6 +1,7 @@
 <p align="center">
-<img src="pix/18174701.webp" width="100">
-
+<img src="pix/18174701.webp" width="200">
+<img src="pix/18174701.webp" width="200">
+<img src="pix/18174701.webp" width="200">
 </p>
 
 ----
