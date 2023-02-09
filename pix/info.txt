@@ -1,0 +1,2 @@
+You dont need to convert webp files they can be played directly in a repo of webpage. 
+But base64 images need to converted if they are to be repurposed
