@@ -1,13 +1,12 @@
 <p align="center">
-<img src="https://myteenwebcam.com/fapp/gifs/f3fab9dcfbfaffb5eb62ed82d10d8f49.gif" width="100">
-<img src="https://myteenwebcam.com/fapp/gifs/f3fab9dcfbfaffb5eb62ed82d10d8f49.gif" width="100">
-<img src="https://myteenwebcam.com/fapp/gifs/f3fab9dcfbfaffb5eb62ed82d10d8f49.gif" width="100">
+<img src="pix/18174701.webp" width="100">
+
 </p>
 
 ----
 
-<h1 align="center"><code> 🐌 Branch F1</code></h1>
-<h2 align="center"><i> Foundy Related Work here </i></h2>
+<h1 align="center"><code> 🐒 Branch R1</code></h1>
+<h2 align="center"><i> Foundy Rust Web3 Work  </i></h2>
 
 ----
 1. [Important Links](#important-links)
@@ -52,7 +51,7 @@ source $HOME/.config/fish/config.fish
 
 # Duh ? 
 
-1. This branch will have all foundry related testting work 
+1. This branch is all rust related work
 
 
 # Stuff 
