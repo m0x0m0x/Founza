@@ -33,6 +33,19 @@
 1. Main branch has been renamed to `mx0`
 2. Putup branch protection here
 
+Current branches 
+
+```sh 
+  f1
+* mxo
+  r1
+  remotes/origin/f1
+  remotes/origin/mxo
+  remotes/origin/r1
+```
+
 N | ? 
 |:--:|:--:|
-
+[`mxo`] | Main branch
+[`f1`] | `Foundry` - related panty peeling 
+[`r1`] | `Rust` - related ass worship sweaty woman butts 
